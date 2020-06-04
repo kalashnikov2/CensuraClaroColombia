@@ -15,6 +15,8 @@ Categorias
 https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-new_category_codes.csv
 
 Como funciona ooni  ?
-https://github.com/ooni/spec/tree/master/nettests
+https://ooni.org/nettest/
+
+en detalles https://github.com/ooni/spec/tree/master/nettests
 
 
