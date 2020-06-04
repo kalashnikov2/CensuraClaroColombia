@@ -20,4 +20,7 @@ https://ooni.org/nettest/
 
 en detalles https://github.com/ooni/spec/tree/master/nettests
 
+raw
+https://etherpad.wikimedia.org/p/urlbloqueadasclaro
+
 
