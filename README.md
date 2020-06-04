@@ -3,6 +3,7 @@ listado de dominios/ip bloqueados por Claro Colombia  CDN's o algun otro metodo.
 
 se usa el formato ooni  CSV para la lista
 mas info en  https://ooni.org/get-involved/contribute-test-lists/
+
 listas ejemplo:
 - Global https://github.com/citizenlab/test-lists/blob/master/lists/global.csv
 - Colombia https://github.com/citizenlab/test-lists/blob/master/lists/co.csv
